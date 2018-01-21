@@ -1,0 +1,12 @@
+﻿@model AdminClotheModel
+
+@{
+    ViewData["Title"] = $"Edit Clothe: {Model.Name}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@{ 
+    Html.RenderPartial("_ClothePartial");
+}
+

@@ -1,0 +1,9 @@
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\bin\Debug\netcoreapp2.0\InventoryManagerApp.Data.deps.json
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\bin\Debug\netcoreapp2.0\InventoryManagerApp.Data.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.AssemblyInfoInputs.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.AssemblyInfo.cs
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\bin\Debug\netcoreapp2.0\InventoryManagerApp.Data.pdb
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Data\obj\Debug\netcoreapp2.0\InventoryManagerApp.Data.pdb

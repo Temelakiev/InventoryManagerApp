@@ -1,0 +1,13 @@
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Services.deps.json
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Services.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Services.pdb
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.AssemblyInfoInputs.cache
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.AssemblyInfo.cs
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\obj\Debug\netcoreapp2.0\InventoryManagerApp.Services.pdb
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Data.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Data.pdb
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Common.dll
+C:\Users\Temelakiev\Documents\Visual Studio 2017\Projects\InventoryManagerApp\InventoryManagerApp.Services\bin\Debug\netcoreapp2.0\InventoryManagerApp.Common.pdb

@@ -1,0 +1,40 @@
+﻿@model AdminClotheModel
+
+@{
+    ViewData["Title"] = $"Clothe: {Model.Name}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (User.IsInRole(WebConstants.AdministratorRole))
+{
+    <a asp-area="Admin" asp-controller="Clothes" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit Clothe</a>
+    <a asp-area="Admin" asp-controller="Clothes" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">Delete Clothe</a>
+}
+
+<div>
+    <div class="panel panel-default">
+        <div>
+            <img style="width:200px" src="@Model.PictureUrl" />
+        </div>
+        <div class="panel-body">
+            Name: @Model.Name
+        </div>
+        <div class="panel-body">
+            Type: @Model.Type
+        </div>
+        <div class="panel-body">
+            Quantity: @Model.Quantity
+        </div>
+        <div class="panel-body">
+            Size: @Model.Size
+        </div>
+        <div class="panel-body">
+            Single Price: @Model.SinglePrice $
+        </div>
+        <div class="panel-body">
+            Description: @Model.Description
+        </div>
+    </div>
+</div>
+
